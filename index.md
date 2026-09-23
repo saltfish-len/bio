@@ -20,10 +20,13 @@ Inspired by NYU's Deep Learning course, I am currently interested in **JEPA arch
  
 ## Internship Experience
 
+- **Poshmark, Inc.**, AI/ML Engineering Intern (Jun. 2026 – Aug. 2026)  
+  
 - **Hundsun Technologies Inc.**, Junior Software Engineer Intern (May. 2024 – Jul. 2024)  
   
 ## News
 
+- **[Aug. 2026]** Completed internship at <strong>Poshmark</strong> as an AI/ML Engineering Intern.
 - **[Dec. 2024]** Recognized as an <strong>Outstanding Student</strong>, 2023-2024!
 - **[Jul. 2024]** Completed internship at <strong>Hundsun Technologies</strong> as a Junior Software Engineer.
 - **[Feb. 2024]** First paper in life accepted by <strong>CVPR 2024</strong>! <small> albeit as third author.</small>
